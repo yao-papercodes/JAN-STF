@@ -12,19 +12,10 @@ Implementation of papers:
 Ubuntu 20.04.2 LTS, python 3.8.10, PyTorch 1.12.1.
 ## Datasets
 Application website： [Houston, HyRANK, Pavia](https://github.com/YuxiangZhang-BIT/Data-CSHSI)
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./figures/Houston.png" width = "65%" alt=""/>
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      Houston
-  	</div>
-</center>
-
+<div align="center">
+  <img src="./figures/Houston.png" alt="Houston Image"/>
+  <p>(a),(b): False color and GT maps of Houston2013. (c), (d): False color and GT maps of Houston2018 </p>
+</div>
 
 <div align="center">
   <img src="./figures/HyRANK.png" alt="HyRANK Image"/>
