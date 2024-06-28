@@ -1,12 +1,12 @@
 # Joint Adversarial Network With Semantic and Topology Fusion for Cross-Scene Hyperspectral Image Classification
-Implementation of papers:
+Implementation of paper:
 - [Joint Adversarial Network With Semantic and Topology Fusion for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10559841)  
   IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024.  
   Ronghua Shang, Yuhao Xie, Weitong Zhang, Jie Feng, Songhua Xu
 
 <div align=center>
 	<img src="./figures/framework.png"/>
-	<p>Framwork of JAN-STF. (*Details of CGCAN, TADCA and LTCAN can be found in paper.* ) </p>
+	<p>Framwork of JAN-STF. (_Details of CGCAN, TADCA and LTCAN can be found in paper._) </p>
 </div>
 
 ## Environment
