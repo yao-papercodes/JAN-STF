@@ -7,7 +7,6 @@ Implementation of papers:
 <div align=center>
 	<img src="./figures/framework.png"/>
 </div>
-<!-- ![avatar](./figures/framework.png) -->
 ## Environment
 Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0.
 ## Datasets
