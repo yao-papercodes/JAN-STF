@@ -6,6 +6,7 @@ Implementation of papers:
 
 <div align=center>
 	<img src="./figures/framework.png"/>
+	<p>Framwork of JAN-STF. Details of CGCAN, TADCA and LTCAN can be found in paper. </p>
 </div>
 
 ## Environment
