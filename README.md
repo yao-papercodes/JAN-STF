@@ -14,15 +14,15 @@ Ubuntu 20.04.2 LTS, python 3.8.10, PyTorch 1.12.1.
 Application website： [Houston, HyRANK, Pavia](https://github.com/YuxiangZhang-BIT/Data-CSHSI)
 <div align="center">
   <img src="./figures/Houston.png" alt="Houston Image"/>
-  <p>(a),(b): False color and GT maps of Houston2013. (c), (d): False color and GT maps of Houston2018 </p>
+  <p>(a),(b): False color and GT maps of Houston2013. (c), (d): False color and GT maps of Houston2018. </p>
 </div>
-
 <div align="center">
   <img src="./figures/HyRANK.png" alt="HyRANK Image"/>
-  <p>Figure 1: This is the HyRANK Image.</p>
+  <p>(a),(b): False color and GT maps of Dioni. (c), (d): False color and GT maps of Loukia. </p>
 </div>
-<div align=center>
-	<img src="./figures/Pavia.png"/>
+<div align="center">
+  <img src="./figures/Pavia.png" alt="Pavia Image"/>
+  <p>(a),(b): False color and GT maps of PaviaU. (c), (d): False color and GT maps of PaviaC. </p>
 </div>
 ## Usage
 ```bash
