@@ -26,8 +26,9 @@ Application website： [Houston, HyRANK, Pavia](https://github.com/YuxiangZhang-
 </center>
 
 
-<div align=center>
-	<img src="./figures/HyRANK.png"/>
+<div align="center">
+  <img src="./figures/HyRANK.png" alt="HyRANK Image"/>
+  <p>Figure 1: This is the HyRANK Image.</p>
 </div>
 <div align=center>
 	<img src="./figures/Pavia.png"/>
