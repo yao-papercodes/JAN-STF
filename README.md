@@ -13,13 +13,13 @@ Ubuntu 20.04.2 LTS, python 3.8.10, PyTorch 1.12.1.
 ## Datasets
 Application website： [Houston, HyRANK, Pavia](https://github.com/YuxiangZhang-BIT/Data-CSHSI)
 <div align=center>
-	<img src="./figures/Houston"/>
+	<img src="./figures/Houston.png"/>
 </div>
 <div align=center>
-	<img src="./figures/HyRANK"/>
+	<img src="./figures/HyRANK.png"/>
 </div>
 <div align=center>
-	<img src="./figures/Pavia"/>
+	<img src="./figures/Pavia.png"/>
 </div>
 ## Usage
 ```bash
