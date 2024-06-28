@@ -7,9 +7,6 @@ Implementation of papers:
 <div align=center>
 	<img src="./figures/framework.png"/>
 </div>
-<div align=center>
-	<img src="./figures/CGCAN.png"/>
-</div>
 
 ## Environment
 Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0.
