@@ -1,8 +1,8 @@
-# Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition
+# Joint Adversarial Network With Semantic and Topology Fusion for Cross-Scene Hyperspectral Image Classification
 Implementation of papers:
 - [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)  
-  IEEE Transactions on Multimedia (IEEE TMM), 2024.  
-  Yuefang Gao, Yuhao Xie, Zeke Zexi Hu, Tianshui Chen, Liang Lin
+  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024.  
+  Ronghua Shang, Yuhao Xie, Weitong Zhang, Jie Feng, Songhua Xu
 
 <div align=center>
 	<img src="./figures/framework.png"/>
