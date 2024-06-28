@@ -1,6 +1,6 @@
 # Joint Adversarial Network With Semantic and Topology Fusion for Cross-Scene Hyperspectral Image Classification
 Implementation of papers:
-- [Adaptive Global-Local Representation Learning and Selection for Cross-Domain Facial Expression Recognition](https://ieeexplore.ieee.org/document/10404024/authors#authors)  
+- [Joint Adversarial Network With Semantic and Topology Fusion for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10559841)  
   IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), 2024.  
   Ronghua Shang, Yuhao Xie, Weitong Zhang, Jie Feng, Songhua Xu
 
