@@ -7,11 +7,12 @@ Implementation of papers:
 <div align=center>
 	<img src="./figures/framework.png"/>
 </div>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="./figures/CGCAN.png" alt="Image 1" style="display: inline-block; margin-right: 10px;"/>
   <img src="./figures/TADCA.png" alt="Image 2" style="display: inline-block; margin-right: 10px;"/>
   <img src="./figures/LTCAN.png" alt="Image 3" style="display: inline-block;"/>
-</div>
+</div> -->
+![avatar](./figures/CGCAN.png)![avatar](./figures/TADCA.png)![avatar](./figures/LTCAN.png)
 
 ## Environment
 Ubuntu 22.04.2 LTS, python 3.8.10, PyTorch 1.9.0.
