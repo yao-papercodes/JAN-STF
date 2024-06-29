@@ -44,7 +44,6 @@ If you find our paper or code helpful, please cite our work.
   volume={62},
   number={},
   pages={1-16},
-  keywords={Semantics;Adversarial machine learning;Feature extraction;Hyperspectral imaging;Measurement;Training;Task analysis;Adversarial learning;domain adaptation;hyperspectral image (HSI);semantic attention;topological structure},
   doi={10.1109/TGRS.2024.3415965}}
 ```
 
