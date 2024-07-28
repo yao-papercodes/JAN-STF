@@ -390,15 +390,6 @@ if __name__ == '__main__':
             args.lambda_cgdan = 1e-3
             args.thresholdCAL = 0.90
             args.thresholdCGDAN = 0.90
-        elif 'Pavia' in args.data_path:
-            args.source_name='paviaU'
-            args.target_name='paviaC'
-            args.lr = 1e-2
-            args.lambda_reverse = 1
-            args.lambda_cal = 1e-3
-            args.lambda_cgdan = 1e-2
-            args.thresholdCAL = 0.95
-            args.thresholdCGDAN = 0.90
         elif 'S-H' in args.data_path:
             args.source_name='Hangzhou'
             args.target_name='Shanghai'
